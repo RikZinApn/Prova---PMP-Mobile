@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "443192025774",
+    "firebase_url": "https://projetoprova-94956-default-rtdb.firebaseio.com",
+    "project_id": "projetoprova-94956",
+    "storage_bucket": "projetoprova-94956.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443192025774:android:26ce13ae847eca877b033f",
+        "android_client_info": {
+          "package_name": "com.example.temperatureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjH6hkRZjr50bXJ24VtufnTv5C7M_uGDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
